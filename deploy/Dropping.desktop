@@ -1,0 +1,7 @@
+[Desktop Entry]
+Version= 1.0
+Type=Application
+Name=DROPPING CONTROLLER
+Terminal=false
+Exec=/usr/bin/python3 /home/vinhtran/Documents/Python-Project/dropping_software/main.py
+Icon=/home/vinhtran/Documents/Python-Project/dropping_software/deploy/airdrop.png
